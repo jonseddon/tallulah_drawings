@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0998546"
-     inkscape:cx="668.27015"
-     inkscape:cy="325.04296"
+     inkscape:cx="684.63595"
+     inkscape:cy="429.60224"
      inkscape:window-width="2560"
      inkscape:window-height="1328"
      inkscape:window-x="0"
@@ -451,8 +451,8 @@
        d="m 278.07736,152.66491 v 48.94793"
        id="path13428-4-4" />
     <path
-       style="fill:#999999;stroke:#c3c3c3;stroke-width:0.276202;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.10481, 0.552404;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 113.96843,152.66491 H 50.535442"
+       style="fill:#999999;stroke:#c3c3c3;stroke-width:0.284763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.13905, 0.569526;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 113.96843,152.66491 H 46.542312"
        id="path13428-1" />
     <path
        style="fill:#999999;stroke:#c3c3c3;stroke-width:0.279211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.11685, 0.558424;stroke-dashoffset:0;stroke-opacity:1"
@@ -473,44 +473,139 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#999999;stroke-width:0.264583"
-       x="61.116173"
-       y="59.973568"
+       x="53.836411"
+       y="61.182156"
        id="text31462"><tspan
          sodipodi:role="line"
          id="tspan31460"
          style="fill:#999999;stroke-width:0.264583"
-         x="61.116173"
-         y="59.973568">Starboard Saloon Seat</tspan></text>
+         x="53.836411"
+         y="61.182156">Starboard Saloon Seat</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
-       x="137.76273"
-       y="59.948994"
+       x="117.49297"
+       y="61.182156"
        id="text31462-4"><tspan
          sodipodi:role="line"
          id="tspan40082"
-         x="137.76273"
-         y="59.948994">Chart Table</tspan></text>
+         x="117.49297"
+         y="61.182156">Chart Table</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
-       x="211.66702"
-       y="59.806335"
+       x="181.96086"
+       y="60.361534"
        id="text31462-4-8"><tspan
          sodipodi:role="line"
          id="tspan40162"
-         x="211.66702"
-         y="59.806335">Steering Pedestal</tspan></text>
+         x="181.96086"
+         y="60.361534">Steering Pedestal</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
-       x="281.32977"
-       y="70.927933"
+       x="280.48035"
+       y="61.182156"
        id="text31462-4-8-6"><tspan
          sodipodi:role="line"
          id="tspan59836"
-         x="281.32977"
-         y="70.927933">Unknown Location</tspan></text>
+         x="280.48035"
+         y="61.182156">Unknown Location</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93765px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.183603"
+       x="281.25699"
+       y="111.91524"
+       id="text31462-4-8-6-6"
+       transform="scale(1.0466193,0.95545725)"><tspan
+         sodipodi:role="line"
+         id="tspan1566"
+         x="281.25699"
+         y="111.91524"
+         style="stroke-width:0.183603">The physical location of the GPS receiver is </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1568"
+         x="281.25699"
+         y="115.5873"
+         style="stroke-width:0.183603">currently not known. It is likely to be either</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1570"
+         x="281.25699"
+         y="119.25936"
+         style="stroke-width:0.183603">in the steering pedestal or in the compart-</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1572"
+         x="281.25699"
+         y="122.93143"
+         style="stroke-width:0.183603">ments behind the cockpit locker or stern </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1574"
+         x="281.25699"
+         y="126.60349"
+         style="stroke-width:0.183603">cabin. Data from the GPS has been obser-</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1576"
+         x="281.25699"
+         y="130.27554"
+         style="stroke-width:0.183603">ved on the SeaTalk bus.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93765px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.183603"
+       x="286.25388"
+       y="210.00185"
+       id="text31462-4-8-6-6-9"
+       transform="scale(1.0466193,0.95545725)"><tspan
+         sodipodi:role="line"
+         id="tspan19687"
+         x="286.25388"
+         y="210.00185">As well as a +12V connection to the</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19689"
+         x="286.25388"
+         y="213.6739">domestic supply, every item with a</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19691"
+         x="286.25388"
+         y="217.34598">+12V supply also has an unswitched</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19693"
+         x="286.25388"
+         y="221.01804">connection to ground that has been </tspan><tspan
+         sodipodi:role="line"
+         id="tspan19695"
+         x="286.25388"
+         y="224.69009">omitted for clarity.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93765px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.183603"
+       x="193.47081"
+       y="210.00185"
+       id="text31462-4-8-6-6-96"
+       transform="scale(1.0466193,0.95545725)"><tspan
+         sodipodi:role="line"
+         id="tspan19752"
+         x="193.47081"
+         y="210.00185">This diagram has been made by fol-</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19754"
+         x="193.47081"
+         y="213.6739">lowing physical and data connections</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19756"
+         x="193.47081"
+         y="217.34598">around the vessel rather than basing</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19758"
+         x="193.47081"
+         y="221.01804">it on any existing drawings. It is belie-</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19760"
+         x="193.47081"
+         y="224.69009">ved to be correct but could still cont-</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19762"
+         x="193.47081"
+         y="228.36215">ain some errors.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
@@ -525,22 +620,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
        x="56.863132"
-       y="157.83177"
+       y="157.94897"
        id="text31462-2"><tspan
          sodipodi:role="line"
          id="tspan39510"
          x="56.863132"
-         y="157.83177">Forepeak</tspan></text>
+         y="157.94897">Forepeak</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
        x="188.90906"
-       y="158.54739"
+       y="158.76959"
        id="text31462-2-0"><tspan
          sodipodi:role="line"
          id="tspan39727"
          x="188.90906"
-         y="158.54739">Mast</tspan></text>
+         y="158.76959">Mast</tspan></text>
     <g
        id="g48709"
        transform="translate(43.920855,53.445861)">
@@ -667,23 +762,24 @@
        d="M 162.98361,64.0292 V 77.258367"
        id="path49330" />
     <g
-       id="g57429"
-       transform="translate(43.920855,53.445861)">
+       id="g1128" />
+    <g
+       id="g1134">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 7.9374999,10.492203 H 261.9375"
+         d="M 51.858355,63.938064 H 305.85836"
          id="path49622" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="263.155"
-         y="11.539512"
+         x="42.655701"
+         y="64.722221"
          id="text53886"><tspan
            sodipodi:role="line"
            id="tspan53884"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           x="263.155"
-           y="11.539512">+12V</tspan></text>
+           x="42.655701"
+           y="64.722221">+12V</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
